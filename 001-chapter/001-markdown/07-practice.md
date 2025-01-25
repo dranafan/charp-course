@@ -1,0 +1,1 @@
+[![Bear](https://placebear.com/100/200)](https://stepik.org/)
